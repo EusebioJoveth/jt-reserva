@@ -21,3 +21,8 @@
     color: blueviolet;
     cursor: pointer;
 }
+
+.fText{
+    color: brown;
+    font-weight: bold;
+}
